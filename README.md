@@ -23,7 +23,7 @@ A simple web application inspired by Quora, built to practice backend web develo
 
 ## Project Structure
 
-```text
+
 quora-posts-app/
 ├── public/
 │   └── style.css
@@ -36,52 +36,10 @@ quora-posts-app/
 ├── package.json
 ├── package-lock.json
 └── README.md
-```
+
 
 ## Getting Started
 
-### Prerequisites
-
-- Node.js and npm installed on your computer.
-- A code editor such as Visual Studio Code.
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone <your-repository-url>
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd <your-project-folder>
-   ```
-
-3. Install the dependencies:
-
-   ```bash
-   npm install
-   ```
-
-### Run the Application
-
-Start the server using:
-
-```bash
-node index.js
-```
-
-Alternatively, if Nodemon is installed, run:
-
-```bash
-nodemon index.js
-```
-
-Open the following URL in your browser:
-
-**http://localhost:8080/posts**
 
 ## How It Works
 
