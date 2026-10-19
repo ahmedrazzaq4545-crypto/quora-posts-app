@@ -1,8 +1,8 @@
 const express = require("express");
 const app = express();
-const path = require("path")
-const methodOverride = require('method-override')
-const {v4 : uuidv4}= require("uuid")
+const path = require("path");
+const methodOverride = require('method-override');
+const {v4 : uuidv4}= require("uuid");
 // ⇨ 'b18794e8-5d0d-417c-b361-ba38e78411b4'
 
 let port = 8080;
